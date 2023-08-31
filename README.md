@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:EEFF00,100:a82da8&height=150&section=header&text=Eunsu's%20GitHub&fontColor=ffffff&fontSize=24&fontAlignY=30)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=Eunsu's%20GitHub&fontColor=ffffff&fontSize=28&fontAlignY=30)
 
 <p><b>👋 Welcome to Eunsu's GitHub</b></p>
 <br>
@@ -25,7 +25,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinEun9&layout=compact&theme=white)
 
-  ![footer](https://capsule-render.vercel.app/api?type=Waving&color=0:EEFF00,100:a82da8&height=100&section=footer)
+  ![footer](https://capsule-render.vercel.app/api?type=Waving&color=0:EEFF00,100:a82da8&height=200&section=footer)
 </div>
 
 
