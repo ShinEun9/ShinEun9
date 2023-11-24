@@ -6,7 +6,8 @@
 <br>
 <p><b>📝 Study Log</b></p>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ses2201)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ses2201&tag=webpack)](https://github.com/eungyeole/velog-readme-stats)
+
 
 <br>
 
